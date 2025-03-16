@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(){
-
-printf("BEM VINDO AO SUPER TRUNFO:\n");
-printf("CADSTRE SUAS CARTAS E BOM JOGO:\n");
+printf("Desafio supertrunfo\n");
+printf("Bem vindo ao jogo:\n");
+printf("Cadastre suas cartas, e bom jogo:\n");
 
 char estado1, estado2;
 char codigocidade1[20], codigocidade2[20];
